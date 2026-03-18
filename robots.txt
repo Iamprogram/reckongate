@@ -1,0 +1,15 @@
+# ═══════════════════════════════════════════
+# NuJee Dimension · AkashicGate
+# robots.txt — Search Engine Instructions
+# https://iamprogram.github.io/akashicgate/
+# ═══════════════════════════════════════════
+
+# Allow all search engines to crawl everything
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://iamprogram.github.io/akashicgate/sitemap.xml
+
+# Crawl delay (be respectful to GitHub Pages servers)
+Crawl-delay: 10
